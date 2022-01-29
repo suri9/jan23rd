@@ -1,6 +1,4 @@
 hello how you doing
 ola
-third line from sprint-1
 8th line
-12 line
-10
+12lin
