@@ -1,4 +1,9 @@
 hello how you doing
 ola
+<<<<<<< HEAD
 8th line
 12lin
+=======
+third line from sprint-1
+third line from release 
+>>>>>>> f842083099255252b41fd8ad86e0952cc42da855
