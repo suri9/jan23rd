@@ -1,7 +1,5 @@
 hello how you doing
-ola
-third line from sprint-1
-6th line
+ine
 7th line
 13th line
 9th line
